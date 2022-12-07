@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python,Html languages 
 - 💞️ I’m looking to collaborate on cyber security projects
-- 📫 How to reach me mail me 
+- 📫 Through mail yo can contact me 
 
 <!---
 Athinapavankalyan/Athinapavankalyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
